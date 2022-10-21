@@ -1,6 +1,6 @@
 .header {
   padding: 40px 0 120px;
-  background: url('../img/header_bg.png') left center/cover no-repeat;
+  background: url('../img/header_bg.png') center center/cover no-repeat;
 }
 
 .header__container {
@@ -8,8 +8,8 @@
 }
 
 .header__top-wrapper {
-  margin-bottom: 120px;
-  height: 60px;
+  margin-bottom: 119px;
+  height: 68px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -17,13 +17,14 @@
 }
 
 .phone__number {
-  margin-bottom: 2.85px;
-  font-size: 23.85px;
-  line-height: 28px;
+  margin-bottom: 1px;
+  font-size: 23.54px;
+  line-height: 33px;
   color: #FFFFFF;
 }
 
 .phone__call {
+  padding-left: 2px;
   font-size: 16px;
   line-height: 19px;
   color: #FFFFFF;
@@ -40,7 +41,7 @@
 }
 
 .header__title {
-  margin-bottom: 35px;
+  margin-bottom: 34px;
   font-weight: 900;
   font-size: 52px;
   line-height: 61px;
@@ -49,7 +50,7 @@
 }
 
 .header__descr {
-  margin-bottom: 90px;
+  margin-bottom: 88px;
   min-height: 89px;
   font-size: 22px;
   line-height: 31px;
@@ -71,7 +72,7 @@
   display: block;
   width: 200px;
   height: 48px;
-  padding: 10px 0;
+  padding: 13px 0;
   background-color: #15A9CB;
   box-shadow: 0px 4px 25px rgba(21, 169, 203, 0.3);
   border-radius: 50px;

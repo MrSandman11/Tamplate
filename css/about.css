@@ -7,7 +7,7 @@
 }
 
 .about__title {
-  margin-bottom: 25px;
+  margin-bottom: 26px;
   font-weight: 700;
   font-size: 35px;
   line-height: 41px;
@@ -15,7 +15,7 @@
 }
 
 .about__subtitle-wrapper {
-  margin-bottom: 35px;
+  margin-bottom: 34px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -39,12 +39,13 @@
   display: block;
   max-width: 724px;
   margin: 0 auto;
-  margin-bottom: 50px;
+  margin-bottom: 59px;
   line-height: 25px;
   text-align: center;
 }
 
 .about__advantages-list {
+  padding-left: 2px;
   display: flex;
   justify-content: center;
   gap: 50px;
@@ -61,7 +62,7 @@
   width: 122px;
   height: 122px;
   margin: 0 auto;
-  margin-bottom: 16px;
+  margin-bottom: 14px;
   border-radius: 50%;
   background-color: #23C7EC;
 }
@@ -69,7 +70,7 @@
 .about__advantages-circle::after {
   content: counter(count);
   position: absolute;
-  top: 32.5px;
+  top: 37px;
   right: 0;
   left: 0;
   counter-increment: count;
