@@ -44,20 +44,18 @@
 }
 
 .phone__footer {
-  padding-bottom: 4px;
-  padding-right: 1px;
+  padding-bottom: 5px;
 }
 
 .phone__number_footer {
-  margin-bottom: 1px;
+  padding-right: 2px;
   font-size: 23.54px;
   line-height: 33px;
   color: #FFFFFF;
 }
 
 .phone__call_footer {
-  padding-bottom: 1px;
-  padding-left: 2px;
+  padding-bottom: 2px;
   font-size: 16px;
   line-height: 19px;
   color: #FFFFFF;
