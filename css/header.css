@@ -16,6 +16,10 @@
   text-align: center;
 }
 
+.phone {
+  padding-right: 2px;
+}
+
 .phone__number {
   margin-bottom: 1px;
   font-size: 23.54px;
@@ -24,6 +28,7 @@
 }
 
 .phone__call {
+  padding-left: 1px;
   font-size: 16px;
   line-height: 19px;
   color: #FFFFFF;
