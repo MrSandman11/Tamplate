@@ -93,12 +93,14 @@
 
   .form__title {
     margin-bottom: 16px;
+    padding-right: 9px;
     font-size: 32px;
     line-height: 38px;
     min-height: 37px;
   }
   
   .form__legend {
+    padding-left: 16px;
     font-size: 20px;
     line-height: 23px;
   }
@@ -111,12 +113,18 @@
     font-size: 20px;
     line-height: 23px;
   }
+
+  .form__input:last-child {
+    margin-bottom: 50px;
+  }
   
   .form__btn {
     margin-bottom: 30px;
   }
   
   .form__agree {
+    padding-left: 0;
+    padding-right: 1px;
     font-size: 17px;
     line-height: 20px;
     height: 21px;
@@ -141,20 +149,22 @@
   
   .form__title {
     margin-bottom: 10px;
+    padding-right: 2px;
     font-size: 20px;
     line-height: 23px;
     min-height: 26px;
   }
   
   .form__legend {
-    margin-bottom: 35px;
+    padding-left: 0;
+    margin-bottom: 36px;
     font-size: 12px;
     line-height: 14px;
   }
   
   .form__input {
     margin-bottom: 15px;
-    padding-left: 33.06px;
+    padding-left: 16px;
     width: 290px;
     height: 28px;
     font-size: 14px;
@@ -166,6 +176,7 @@
   }
   
   .form__btn {
+    padding: 4px 2px 0 0;
     width: 174px;
     height: 38px;
     font-size: 16px;

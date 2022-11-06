@@ -72,6 +72,21 @@
   
   .footer__designer {
     opacity: 0.5;
+    padding-right: 21px;
+  }
+
+  .phone__number_footer {
+    font-size: 21px;
+    line-height: 25px;
+  }
+
+  .phone__call_footer {
+    font-size: 13px;
+    line-height: 15px;
+  }
+
+  .footer__logo-block {
+    height: 60px;
   }
 }
 
@@ -133,5 +148,9 @@
   .footer__wrapper {
     height: 80px;
     padding: 25px 0;
+  }
+
+  .phone_footer {
+    display: none;
   }
 }
